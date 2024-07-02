@@ -1,0 +1,12 @@
+{
+  "name": "wheatherserver",
+  "version": "1.0.0",
+  "description": "This server will read the temperature from nodejs script which does post request to the server and stores in aws rds db",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
